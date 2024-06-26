@@ -1,0 +1,6 @@
+                     
+Sueldos De Trabajadores 
+ 1.Operario_General  2.Operario 3.Operario_Especializado 
+    $500.000          $540.000       $600.000 
+ 
+ 
